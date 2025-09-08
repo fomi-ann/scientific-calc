@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SciCalc", "SciCalc\SciCalc.csproj", "{880F49E1-0AF3-469D-8B42-C6F1190178E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{880F49E1-0AF3-469D-8B42-C6F1190178E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{880F49E1-0AF3-469D-8B42-C6F1190178E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{880F49E1-0AF3-469D-8B42-C6F1190178E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{880F49E1-0AF3-469D-8B42-C6F1190178E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8755BAD-6A58-45EB-9C6A-7572645FE9CF}
+	EndGlobalSection
+EndGlobal
