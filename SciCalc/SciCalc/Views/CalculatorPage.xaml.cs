@@ -1,12 +1,11 @@
 using SciCalc.ViewModels;
 namespace SciCalc.Views;
 
-
-public partial class CalculatorPage : ContentView
+public partial class CalculatorPage : ContentPage
 {
 	public CalculatorPage()
 	{
-        InitializeComponent();
+		InitializeComponent();
 
 		this.BindingContext = new CalculatorPageViewModel();
 	}

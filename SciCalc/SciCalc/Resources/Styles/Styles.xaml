@@ -13,7 +13,7 @@
         <Setter Property="Padding" Value="0" />
         <Setter Property="Margin" Value="0" />
         <Setter Property="RowSpacing" Value="0"/>
-        <Setter Property="ColumnSpacing" Value="Fill" />
+        <Setter Property="ColumnSpacing" Value="0" />
         <Setter Property="VerticalOptions" Value="Fill" />
         <Setter Property="HorizontalOptions" Value="Fill" />
         <Setter Property="BackgroundColor" Value="Transparent" />
