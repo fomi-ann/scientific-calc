@@ -266,7 +266,7 @@
             Style="{StaticResource NumberButtonStyle}" 
             Text="7"
             Command="{Binding NumberInputCommand}"
-            CommandParameter="nr7"/>
+            CommandParameter="7"/>
 
         <Button
             Grid.Row="6"
@@ -276,7 +276,7 @@
             Style="{StaticResource NumberButtonStyle}" 
             Text="8"
             Command="{Binding NumberInputCommand}"
-            CommandParameter="nr8"/>
+            CommandParameter="8"/>
 
         <Button
             Grid.Row="6"
@@ -286,7 +286,7 @@
             Style="{StaticResource NumberButtonStyle}" 
             Text="9"
             Command="{Binding NumberInputCommand}"
-            CommandParameter="nr9"/>
+            CommandParameter="9"/>
 
         <Button
             Grid.Row="6"
@@ -310,7 +310,7 @@
             Style="{StaticResource NumberButtonStyle}" 
             Text="4"
             Command="{Binding NumberInputCommand}"
-            CommandParameter="nr4"/>
+            CommandParameter="4"/>
 
         <Button
             Grid.Row="7"
@@ -320,7 +320,7 @@
             Style="{StaticResource NumberButtonStyle}" 
             Text="5"
             Command="{Binding NumberInputCommand}"
-            CommandParameter="nr5"/>
+            CommandParameter="5"/>
 
         <Button
             Grid.Row="7"
@@ -330,7 +330,7 @@
             Style="{StaticResource NumberButtonStyle}" 
             Text="6"
             Command="{Binding NumberInputCommand}"
-            CommandParameter="nr6"/>
+            CommandParameter="6"/>
 
         <Button
             Grid.Row="7"
@@ -362,7 +362,7 @@
             Style="{StaticResource NumberButtonStyle}" 
             Text="1"
             Command="{Binding NumberInputCommand}"
-            CommandParameter="nr1"/>
+            CommandParameter="1"/>
 
         <Button
             Grid.Row="8"
@@ -372,7 +372,7 @@
             Style="{StaticResource NumberButtonStyle}" 
             Text="2"
             Command="{Binding NumberInputCommand}"
-            CommandParameter="nr2"/>
+            CommandParameter="2"/>
 
         <Button
             Grid.Row="8"
@@ -382,7 +382,7 @@
             Style="{StaticResource NumberButtonStyle}" 
             Text="3"
             Command="{Binding NumberInputCommand}"
-            CommandParameter="nr4"/>
+            CommandParameter="4"/>
 
         <Button
             Grid.Row="8"
@@ -414,7 +414,7 @@
             Style="{StaticResource NumberButtonStyle}" 
             Text="0"
             Command="{Binding NumberInputCommand}"
-            CommandParameter="nr0"/>
+            CommandParameter="0"/>
 
         <Button
             Grid.Row="9"
