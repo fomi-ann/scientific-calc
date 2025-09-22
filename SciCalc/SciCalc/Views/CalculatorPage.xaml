@@ -444,7 +444,7 @@
             Style="{StaticResource OperatorButtonStyle}" 
             Text="="
             Command="{Binding CalculateCommand}"
-            CommandParameter="AC"
+            CommandParameter="="
             Grid.ColumnSpan="2"/>
     </Grid>
 </ContentPage>
