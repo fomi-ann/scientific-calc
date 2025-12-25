@@ -102,6 +102,7 @@
             Margin="6,10,6,4"
             Style="{StaticResource ScientificOperatorButtonStyle}" 
             Text="FACT"/>
+            
 
         <!--Row 2-->
         <Button
@@ -111,7 +112,7 @@
             Margin="6,10,6,4"
             Style="{StaticResource ScientificOperatorButtonStyle}" 
             Text="SIN"
-            Command="{Binding SchientificOperatorCommand}"
+            Command="{Binding ScientificOperatorCommand}"
             CommandParameter="SIN"/>
 
         <Button
@@ -121,7 +122,7 @@
             Margin="6,10,6,4"
             Style="{StaticResource ScientificOperatorButtonStyle}" 
             Text="COS"
-            Command="{Binding SchientificOperatorCommand}"
+            Command="{Binding ScientificOperatorCommand}"
             CommandParameter="COS"/>
 
         <Button
@@ -131,7 +132,7 @@
             Margin="6,10,6,4"
             Style="{StaticResource ScientificOperatorButtonStyle}" 
             Text="TAN"
-            Command="{Binding SchientificOperatorCommand}"
+            Command="{Binding ScientificOperatorCommand}"
             CommandParameter="TAN"/>
 
         <Button
@@ -141,7 +142,7 @@
             Margin="6,10,6,4"
             Style="{StaticResource ScientificOperatorButtonStyle}" 
             Text="LOG"
-            Command="{Binding SchientificOperatorCommand}"
+            Command="{Binding ScientificOperatorCommand}"
             CommandParameter="LOG"/>
 
         <Button
@@ -151,7 +152,7 @@
             Margin="6,10,6,4"
             Style="{StaticResource ScientificOperatorButtonStyle}" 
             Text="EXP"
-            Command="{Binding SchientificOperatorCommand}"
+            Command="{Binding ScientificOperatorCommand}"
             CommandParameter="EXP"/>
         
         <!--Row 3-->
@@ -162,7 +163,7 @@
             Margin="6,10,6,4"
             Style="{StaticResource ScientificOperatorButtonStyle}" 
             Text="ASIN"
-            Command="{Binding SchientificOperatorCommand}"
+            Command="{Binding ScientificOperatorCommand}"
             CommandParameter="ASIN"/>
 
         <Button
@@ -172,7 +173,7 @@
             Margin="6,10,6,4"
             Style="{StaticResource ScientificOperatorButtonStyle}" 
             Text="ACOS"
-            Command="{Binding SchientificOperatorCommand}"
+            Command="{Binding ScientificOperatorCommand}"
             CommandParameter="ACOS"/>
 
         <Button
@@ -182,7 +183,7 @@
             Margin="6,10,6,4"
             Style="{StaticResource ScientificOperatorButtonStyle}" 
             Text="ATAN"
-            Command="{Binding SchientificOperatorCommand}"
+            Command="{Binding ScientificOperatorCommand}"
             CommandParameter="ATAN"/>
 
         <Button
@@ -192,7 +193,7 @@
             Margin="6,10,6,4"
             Style="{StaticResource ScientificOperatorButtonStyle}" 
             Text="LOG10"
-            Command="{Binding SchientificOperatorCommand}"
+            Command="{Binding ScientificOperatorCommand}"
             CommandParameter="LOG10"/>
 
         <Button
@@ -202,7 +203,7 @@
             Margin="6,10,6,4"
             Style="{StaticResource ScientificOperatorButtonStyle}" 
             Text="POW"
-            Command="{Binding SchientificOperatorCommand}"
+            Command="{Binding ScientificOperatorCommand}"
             CommandParameter="POW"/>
         
         <!--Row 4-->
@@ -213,7 +214,7 @@
             Margin="6,10,6,4"
             Style="{StaticResource ScientificOperatorButtonStyle}" 
             Text="SQRT"
-            Command="{Binding SchientificOperatorCommand}"
+            Command="{Binding ScientificOperatorCommand}"
             CommandParameter="SQRT"/>
 
         <Button
@@ -223,7 +224,7 @@
             Margin="6,10,6,4"
             Style="{StaticResource ScientificOperatorButtonStyle}" 
             Text="ABS"
-            Command="{Binding SchientificOperatorCommand}"
+            Command="{Binding ScientificOperatorCommand}"
             CommandParameter="ABS"/>
 
         <Button
@@ -233,7 +234,7 @@
             Margin="6,10,6,4"
             Style="{StaticResource ScientificOperatorButtonStyle}" 
             Text=","
-            Command="{Binding SchientificOperatorCommand}"
+            Command="{Binding ScientificOperatorCommand}"
             CommandParameter=","/>
 
         <Button
@@ -243,7 +244,7 @@
             Margin="6,10,6,4"
             Style="{StaticResource ScientificOperatorButtonStyle}" 
             Text="("
-            Command="{Binding SchientificOperatorCommand}"
+            Command="{Binding ScientificOperatorCommand}"
             CommandParameter="("/>
 
         <Button
@@ -253,7 +254,7 @@
             Margin="6,10,6,4"
             Style="{StaticResource ScientificOperatorButtonStyle}" 
             Text=")"
-            Command="{Binding SchientificOperatorCommand}"
+            Command="{Binding ScientificOperatorCommand}"
             CommandParameter=")"/>
 
         
